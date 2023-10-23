@@ -1,1 +1,6 @@
-# bounties
+# Grants and Bounties
+
+## Grants
+
+## Bounties
+
