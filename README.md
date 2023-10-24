@@ -15,26 +15,26 @@ Below, we have listed all the grants and bounties for Aori. These are divided in
 - [Documentation ✍️](#documentation-)
 - [Miscellaneous ⭐](#miscellaneous-)
 
-## Market Making 🌊
+### Market Making 🌊
 |Title|Description|Bounty|
 |--|--|--|
 
 
 
 
-## Market Taking 💱
+### Market Taking 💱
 |Title|Description|Bounty|
 |--|--|--|
 
-## Protocols 🔌
+### Protocols 🔌
 |Title|Description|Bounty|
 |--|--|--|
 
-## Products ✨
+### Products ✨
 |Title|Description|Bounty|
 |--|--|--|
 
-## Data 📊
+### Data 📊
 
 |Title|Description|Bounty|
 |-|-|-|
@@ -43,10 +43,16 @@ Below, we have listed all the grants and bounties for Aori. These are divided in
 |**`DEX Aggregator Price Analysis`**| Create an external web application that tracks the quotes for various market pairs e.g ETH/USDC given by the top RFQs e.g 0x, Hashflow. Inspiration came from this [tweet](https://twitter.com/0xTaker/status/1658470128676380672).|**`1000 USDC`**|
 
 
-## Documentation ✍️
+### Documentation ✍️
 |Title|Description|Bounty|
 |--|--|--|
 
-## Miscellaneous ⭐
+### Miscellaneous ⭐
 |Title|Description|Bounty|
 |--|--|--|
+
+---
+
+## Bounty Intention and Submission
+
+Intention to go for a bounty and the submission of relevant materials can be made by creating a GitHub issue under the `Bounty Submission` template. Please provide relevant details and materials.
