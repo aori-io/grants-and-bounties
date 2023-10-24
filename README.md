@@ -38,9 +38,9 @@ Below, we have listed all the grants and bounties for Aori. These are divided in
 
 |Title|Description|Bounty|
 |-|-|-|
-|**`Trading Leaderboard`**| Create and open source an external web application that tracks the top traders in the Aori orderbook by their completed orders. This information can be fetched by aggregating data from the events emitted from the [OrderProtocol](https://goerli.etherscan.io/address/0xea2b4e7f02b859305093f9f4778a19d66ca176d5) contract. |**`1000 USDC`**|
-|**`Market Activity Tracker`**| Create and open source an external web application that tracks the activity in each market. Completed trades can be fetched by aggregating data from the events emitted from the [OrderProtocol](https://goerli.etherscan.io/address/0xea2b4e7f02b859305093f9f4778a19d66ca176d5) contract. Open interest of each market can be queried by the [Aori API](https://www.aori.io/developers/api/orderbooks) with the `aori_viewOrderbook` method. |**`1000 USDC`**|
-|**`DEX Aggregator Price Analysis`**| Create and open source an external web application that tracks the quotes for various market pairs e.g ETH/USDC given by the top RFQs e.g 0x, Hashflow. Inspiration came from this [tweet](https://twitter.com/0xTaker/status/1658470128676380672).|**`1000 USDC`**|
+|**`Trading Leaderboard`**| Create and open source an external web application that tracks the top traders in the Aori orderbook by their completed orders. This information can be fetched by aggregating data from the events emitted from the [OrderProtocol](https://goerli.etherscan.io/address/0xea2b4e7f02b859305093f9f4778a19d66ca176d5) contract. |**`1000+ USDC`**|
+|**`Market Activity Tracker`**| Create and open source an external web application that tracks the activity in each market. Completed trades can be fetched by aggregating data from the events emitted from the [OrderProtocol](https://goerli.etherscan.io/address/0xea2b4e7f02b859305093f9f4778a19d66ca176d5) contract. Open interest of each market can be queried by the [Aori API](https://www.aori.io/developers/api/orderbooks) with the `aori_viewOrderbook` method. |**`1000+ USDC`**|
+|**`DEX Aggregator Price Analysis`**| Create and open source an external web application that tracks the quotes for various market pairs e.g ETH/USDC given by the top RFQs e.g 0x, Hashflow. Inspiration came from this [tweet](https://twitter.com/0xTaker/status/1658470128676380672).|**`1000+ USDC`**|
 
 
 ### Documentation ✍️
