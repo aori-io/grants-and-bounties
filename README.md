@@ -19,9 +19,6 @@ Below, we have listed all the grants and bounties for Aori. These are divided in
 |Title|Description|Bounty|
 |--|--|--|
 
-
-
-
 ### Market Taking 💱
 |Title|Description|Bounty|
 |--|--|--|
@@ -33,6 +30,7 @@ Below, we have listed all the grants and bounties for Aori. These are divided in
 ### Products ✨
 |Title|Description|Bounty|
 |--|--|--|
+|**`Telegram Bot`**| Create and open source a Telegram bot that allows users to query and trade the Aori orderbook. |**`1000+ USDC`**|
 
 ### Data 📊
 
