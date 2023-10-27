@@ -2,14 +2,19 @@
 
 Aori is a high-performance orderbook protocol for high-frequency trading on-chain and facilitating OTC settlement. The [infrastructure of Aori is made to be foundational](https://aori-io.notion.site/Order-A-Litepaper-62f809b5c25c4798ad2c1d48d883e7bd) for trading systems, products and protocols to be built on top of us.
 
+- [Bounties](#bounties)
+    - [Bounty FAQ](#bounty-faq)
+- [Grants](#grants) `TODO`
+    - [Grants FAQ](#grants-faq) `TODO`
+
 ---
+## Bounties
 
-After some requests, we've decided to create a board for everything grants and bounties for those who are interested in open source contributing to Aori and the projects built on top of it and the trading teams tapping into them.
+After some requests, we've decided to create for everything bounties for those who are interested in open source contributing to Aori and the projects built on top of it and the trading teams tapping into them.
 
-Below, we have listed all the grants and bounties for Aori. We advocate open source code development for the benefit of the community. We've divided the bounties into a few sections:
+Below, we have listed all bounties for Aori. We advocate open source code development for the benefit of the community. We've divided the bounties into a few sections:
 - [Market Making 🌊](#market-making-)
 - [Market Taking 💱](#market-taking-)
-- [Protocols 🔌](#protocols-)
 - [Products ✨](#products-)
 - [Data 📊](#data-)
 - [Documentation ✍️](#documentation-)
@@ -19,18 +24,15 @@ Below, we have listed all the grants and bounties for Aori. We advocate open sou
 |Title|Description|Bounty|
 |--|--|--|
 
-### Market Taking 💱
-|Title|Description|Bounty|
-|--|--|--|
 
-### Protocols 🔌
+### Market Taking 💱
 |Title|Description|Bounty|
 |--|--|--|
 
 ### Products ✨
 |Title|Description|Bounty|
 |--|--|--|
-|**`Telegram Bot`**| Create a Telegram bot that allows users to query and trade the Aori orderbook. |**`1000+ USDC`**|
+|**`Telegram Bot`**| Create a simple Telegram bot that allows users to query and trade the Aori orderbook. |**`1000+ USDC`**|
 
 ### Data 📊
 
@@ -48,24 +50,10 @@ Below, we have listed all the grants and bounties for Aori. We advocate open sou
 ### Miscellaneous ⭐
 |Title|Description|Bounty|
 |--|--|--|
+|**`Tweet Thread on Aori, UniswapX, CoWSwap etc.`**| Create an informational tweet thread researching and discussing the key differences between Aori, UniswapX, CoWSwap etc. |**`100 USDC`**|
 
----
-
-## Bounty Intention and Submission
-
-Intention to go for a bounty and the submission of relevant materials can be made by creating a GitHub issue under the `Bounty Submission` template.
-
-Depending on the task, you can provide:
-- A link to the relevant GitHub repository, open-sourced
-- An invite to the GitHub repository to @hilliamt, closed-source
-- A live website link of your deployed web application
-- A link to a Dune dashboard
-- A link to a Notion page
-- Wireframes, Requirements, User Journey, milestones and help needed
-- Other information that you think might be helpful
-
-On Submission, we will review it and get back to you with the next steps.
-
-## FAQ
-
-- How do I receive a payout after completion? Once we review the submission, reach out with the next steps. 
+## Bounty FAQ
+- **How do I begin a bounty?** Create an issue under the `Bounty Submission` template, noting down WIP in the name. This issue will also help with giving others knowledge that you are attempting the bounty and can help you.
+- **What can I submit for a bounty?** You should submit a link to the public GitHub repository of your project, a link to a Dune dashboard, Notion page etc. On Submission, we will review it and get back to you with the next steps.
+- **How do I receive a payout after completion?** Once we review the submission, create an issue under the `Bounty Submission` template and we will get back to you with the next steps.
+- **Can I present other ideas as bounties?** Yes, feel free to do so! The ideas here are a non-exhaustive list of ideas that we think most people will be interested in, but we're keen to hear more ideas. You can do so by creating an issue under the `Bounty Submission` template and presenting your idea.
